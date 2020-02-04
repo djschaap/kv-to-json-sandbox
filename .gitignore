@@ -1,0 +1,5 @@
+*.bak
+*.py[cod]
+*.swp
+*~
+__pycache__/
